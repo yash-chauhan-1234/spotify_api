@@ -20,7 +20,7 @@ def app():
     
 
     scope="user-library-read"
-    redirect_uri="http://localhost:8080"
+    redirect_uri="https://share.streamlit.io/yash-chauhan-1234/spotify_api/main/app.py"
     CLIENT_ID=st.text_input(label="Enter your client id", value="529b46cf46d84dec9969f39e75bdf07f")
     CLIENT_SECRET=st.text_input(label="Enter your secret id", value="8013d63c16b64ff489e63fe677726cc2")
     username=st.text_input(label="Enter your username", value="1q2mr4wzdxbyfec3fixti7hvc")
