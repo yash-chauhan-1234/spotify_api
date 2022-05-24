@@ -21,8 +21,8 @@ def app():
 
     scope="user-library-read"
     redirect_uri="http://localhost:8080"
-    CLIENT_ID=st.text_input(label="Enter your client id", value="442994a7d993428b878da8753d958dd5")
-    CLIENT_SECRET=st.text_input(label="Enter your secret id", value="974319b88aae429883f9074a4a748cdb")
+    CLIENT_ID=st.text_input(label="Enter your client id", value="529b46cf46d84dec9969f39e75bdf07f")
+    CLIENT_SECRET=st.text_input(label="Enter your secret id", value="8013d63c16b64ff489e63fe677726cc2")
     username=st.text_input(label="Enter your username", value="1q2mr4wzdxbyfec3fixti7hvc")
     sp=None
     if st.button("Submit"):
