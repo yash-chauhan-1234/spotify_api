@@ -1,0 +1,15 @@
+[theme]
+
+# Primary accent for interactive elements
+primaryColor = '#54BE70'
+
+# Background color for the main content area
+backgroundColor = '#000000'
+
+# Background color for sidebar and most interactive widgets
+secondaryBackgroundColor = '#000000'
+
+# Color used for almost all text
+textColor = '#FFFFFF'
+
+font = "proxima nova"
